@@ -2,4 +2,4 @@
 
 Curso do Bootcamp JavaScript Game Developer da DIO
 
-Jogo Gênesis utilizando apenas HTML, CSS e Javascript 
+Jogo Genius criado utilizando apenas HTML, CSS e Javascript 
